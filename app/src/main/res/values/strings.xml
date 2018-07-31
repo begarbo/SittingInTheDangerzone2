@@ -98,6 +98,9 @@
     <string name="submit">Submit</string>
     <string name="friends_list_title">FRIENDS LIST</string>
     <string name="friends_remove_instructions">Click a friend to remove them from the friends list. Friends can be readded.</string>
+    <string name="failure_text">YOU GOT EATEN!</string>
+    <string name="failure_text2">Better walk faster next time…</string>
+    <string name="success_text">Success!</string>
 
     // MAIN ACTIVITY
     <string name="new_title_earned">New title earned!</string>
